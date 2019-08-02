@@ -2,6 +2,7 @@
 #  application:
 #    name: eureka-server
     
+    
 #server:
 #  port: 2001
   
